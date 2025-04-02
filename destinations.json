@@ -1,0 +1,807 @@
+[
+  {
+    "id": 1,
+    "name": "Delhi",
+    "description": "Delhi, India's vibrant capital, is a world within itself. With its kaleidoscope of scents, sounds, and sights, Delhi never fails to captivate. From its rich history and architectural marvels to its delectable cuisine and vibrant nightlife, the city offers an unforgettable experience.",
+    "image": "http://localhost:5000/uploads/Agra.jpg",
+    "cost": "15,000"
+  },
+  {
+    "id": 2,
+    "name": "Amritsar",
+    "description": "Explore the Golden Temple, a spiritual hub for Sikhs, and experience the Wagah Border ceremony.",
+    "image": "http://localhost:5000/uploads/Amritsar-imghh.jpg",
+    "cost": "12,000"
+  },
+  {
+    "id": 3,
+    "name": "Auli",
+    "description": "A paradise for skiing enthusiasts with breathtaking views of the Himalayan peaks.",
+    "image": "http://localhost:5000/uploads/Auli-imghh.jpg",
+    "cost": "20,000"
+  },
+  {
+    "id": 4,
+    "name": "Alleppey",
+    "description": "Famous for its backwaters and houseboat cruises, offering a unique experience of Kerala.",
+    "image": "http://localhost:5000/uploads/Alleppey-Imghh.png",
+    "cost": "18,000"
+  },
+  {
+    "id": 5,
+    "name": "Bikaner",
+    "description": "Explore the grand Junagarh Fort and taste the famous Bikaneri Bhujia.",
+    "image": "http://localhost:5000/uploads/Bikaner-Imghh.jpg",
+    "cost": "14,000"
+  },
+  {
+    "id": 6,
+    "name": "Chattisgarh",
+    "description": "Home to stunning waterfalls and tribal culture, a hidden gem in India.",
+    "image": "http://localhost:5000/uploads/chhattisgarh-imgg0.jpg",
+    "cost": "16,500"
+  },
+  {
+    "id": 7,
+    "name": "Corbett National Park",
+    "description": "India?s oldest national park, famous for Bengal tigers and diverse wildlife.",
+    "image": "http://localhost:5000/uploads/Jim-Corbett-National-Park-imghh.jpg",
+    "cost": "22,000"
+  },
+  {
+    "id": 8,
+    "name": "Chittorgarh",
+    "description": "Famous for its massive fort and Rajputana history.",
+    "image": "http://localhost:5000/uploads/Chittorgarh.jpg",
+    "cost": "17,000"
+  },
+  {
+    "id": 9,
+    "name": "Goa",
+    "description": "India?s party capital, known for its beaches, nightlife, and Portuguese heritage.",
+    "image": "http://localhost:5000/uploads/Goa-Travel.jpg",
+    "cost": "25,000"
+  },
+  {
+    "id": 10,
+    "name": "Jaisalmer",
+    "description": "The \"Golden City\" of Rajasthan, known for its sand dunes and fort.",
+    "image": "http://localhost:5000/uploads/Jaisalmer-imgh.jpg",
+    "cost": "19,000"
+  },
+  {
+    "id": 11,
+    "name": "Jodhpur",
+    "description": "Known as the \"Blue City,\" Jodhpur is famous for its stunning blue-painted houses and the majestic Mehrangarh Fort.",
+    "image": "http://localhost:5000/uploads/Jodhpur.jpg",
+    "cost": "19,000"
+  },
+  {
+    "id": 12,
+    "name": "Jaipur",
+    "description": "The capital city of Rajasthan, Jaipur is known for its rich history, pink-hued architecture, and vibrant culture.",
+    "image": "http://localhost:5000/uploads/Jaipur.jpg",
+    "cost": "15,000"
+  },
+  {
+    "id": 13,
+    "name": "Katra",
+    "description": "Katra serves as the base camp for the holy pilgrimage to Vaishno Devi, nestled in the Trikuta Mountains.",
+    "image": "http://localhost:5000/uploads/katara.avif",
+    "cost": "12,000"
+  },
+  {
+    "id": 14,
+    "name": "Kolkata",
+    "description": "The cultural capital of India, Kolkata is known for its colonial architecture, art galleries, and delicious street food.",
+    "image": "http://localhost:5000/uploads/Kolkata-Tour-Package-4 (1).webp",
+    "cost": "18,000"
+  },
+  {
+    "id": 15,
+    "name": "Kochi",
+    "description": "A coastal city known for its beautiful backwaters, colonial history, and rich spice trade heritage.",
+    "image": "http://localhost:5000/uploads/Kochi-Imghh (1).png",
+    "cost": "20,000"
+  },
+  {
+    "id": 16,
+    "name": "Khajjiar",
+    "description": "Often referred to as the \"Mini Switzerland of India,\" Khajjiar is famous for its meadows and stunning landscapes.",
+    "image": "http://localhost:5000/uploads/Khajjiar-Tour-2.webp",
+    "cost": "16,000"
+  },
+  {
+    "id": 17,
+    "name": "Khajuraho",
+    "description": "Renowned for its stunning temples adorned with intricate erotic sculptures, Khajuraho is a UNESCO World Heritage site.",
+    "image": "http://localhost:5000/uploads/Khajuraho.jpg",
+    "cost": "17,500"
+  },
+  {
+    "id": 18,
+    "name": "Kalimpong",
+    "description": "A serene hill station known for its beautiful monasteries and stunning views of the Himalayas.",
+    "image": "http://localhost:5000/uploads/Kalimpong.jpg",
+    "cost": "14,000"
+  },
+  {
+    "id": 19,
+    "name": "Kullu Manali",
+    "description": "A breathtaking hill station known for its snow-capped peaks, adventure sports, and serene landscapes.",
+    "image": "http://localhost:5000/uploads/Manali-India.webp",
+    "cost": "18,000"
+  },
+  {
+    "id": 20,
+    "name": "Lakshadweep",
+    "description": "A tropical paradise with pristine beaches, crystal-clear waters, and vibrant marine life.",
+    "image": "http://localhost:5000/uploads/Kavaratti-Island-Lakshadweep.webp",
+    "cost": "22,000"
+  },
+  {
+    "id": 21,
+    "name": "Leh",
+    "description": "A high-altitude desert town, famous for its monasteries, scenic landscapes, and adventure activities.",
+    "image": "http://localhost:5000/uploads/Leh-imghh.jpg",
+    "cost": "25,000"
+  },
+  {
+    "id": 22,
+    "name": "Kovalam",
+    "description": "A coastal town in Kerala known for its beautiful crescent-shaped beaches and Ayurveda treatments.",
+    "image": "http://localhost:5000/uploads/Kovalam-Imghh.png",
+    "cost": "16,000"
+  },
+  {
+    "id": 23,
+    "name": "Mahabalipuram",
+    "description": "A UNESCO World Heritage site, famous for its ancient rock-cut temples and shore temples.",
+    "image": "http://localhost:5000/uploads/Mahabalipuram-Imghh.png",
+    "cost": "14,500"
+  },
+  {
+    "id": 24,
+    "name": "Mandawa",
+    "description": "A small town in Rajasthan, famous for its grand havelis and fresco paintings.",
+    "image": "http://localhost:5000/uploads/Mandawa.jpg",
+    "cost": "12,500"
+  },
+  {
+    "id": 25,
+    "name": "Madurai",
+    "description": "One of the oldest cities in India, known for the iconic Meenakshi Temple and rich cultural heritage.",
+    "image": "http://localhost:5000/uploads/Madurai-Imghh-.png",
+    "cost": "15,000"
+  },
+  {
+    "id": 26,
+    "name": "Mumbai",
+    "description": "The city of dreams, known for Bollywood, Marine Drive, Gateway of India, and its vibrant nightlife.",
+    "image": "http://localhost:5000/uploads/Mumbai.jpg",
+    "cost": "20,000"
+  },
+  {
+    "id": 27,
+    "name": "Munnar",
+    "description": "A beautiful hill station in Kerala, famous for its tea plantations, misty hills, and waterfalls.",
+    "image": "http://localhost:5000/uploads/Munnar-Imghh.png",
+    "cost": "18,000"
+  },
+  {
+    "id": 28,
+    "name": "Marari",
+    "description": "A serene beach in Kerala, known for its golden sands, swaying palms, and peaceful environment.",
+    "image": "http://localhost:5000/uploads/Marari-beach-Imghh.png",
+    "cost": "14,000"
+  },
+  {
+    "id": 29,
+    "name": "Orchha",
+    "description": "A historic town in Madhya Pradesh, known for its grand palaces, temples, and cenotaphs.",
+    "image": "http://localhost:5000/uploads/orchha-image-1.jpg",
+    "cost": "13,500"
+  },
+  {
+    "id": 30,
+    "name": "Pune",
+    "description": "A cultural and educational hub of Maharashtra, known for its historic forts and vibrant city life.",
+    "image": "http://localhost:5000/uploads/Pune-India.webp",
+    "cost": "16,000"
+  },
+  {
+    "id": 31,
+    "name": "Nubra Valley",
+    "description": "A breathtaking valley in Ladakh, known for its sand dunes, monasteries, and double-humped camels.",
+    "image": "http://localhost:5000/uploads/Nubra-Valley-imghh.jpg",
+    "cost": "28,000"
+  },
+  {
+    "id": 32,
+    "name": "Pangong Tso",
+    "description": "A mesmerizing high-altitude lake in Ladakh, famous for its ever-changing shades of blue.",
+    "image": "http://localhost:5000/uploads/Pangong-tso-imghh.jpg",
+    "cost": "30,000"
+  },
+  {
+    "id": 33,
+    "name": "Periyar",
+    "description": "A famous wildlife sanctuary in Kerala, home to elephants, tigers, and scenic boat rides.",
+    "image": "http://localhost:5000/uploads/Periyar-National-Park-Imghh.png",
+    "cost": "17,000"
+  },
+  {
+    "id": 34,
+    "name": "Pelling",
+    "description": "A charming town in Sikkim, offering spectacular views of Kanchenjunga and ancient monasteries.",
+    "image": "http://localhost:5000/uploads/Pelling-Imghh.png",
+    "cost": "19,000"
+  },
+  {
+    "id": 35,
+    "name": "Rameswaram",
+    "description": "A sacred town in Tamil Nadu, home to the famous Ramanathaswamy Temple and pristine beaches.",
+    "image": "http://localhost:5000/uploads/Rameswaram-Imghh.png",
+    "cost": "15,500"
+  },
+  {
+    "id": 36,
+    "name": "Srinagar",
+    "description": "The summer capital of Jammu and Kashmir, known for Dal Lake, houseboats, and Mughal gardens.",
+    "image": "http://localhost:5000/uploads/Srinagar-imghh.jpg",
+    "cost": "22,500"
+  },
+  {
+    "id": 37,
+    "name": "Ranthambore National Park",
+    "description": "A wildlife sanctuary in Rajasthan, famous for its majestic Bengal tigers and historic fort.",
+    "image": "http://localhost:5000/uploads/Ranthambore-Imghh.png",
+    "cost": "20,000"
+  },
+  {
+    "id": 38,
+    "name": "Udaipur",
+    "description": "The City of Lakes, known for its royal palaces, scenic lakes, and rich heritage.",
+    "image": "http://localhost:5000/uploads/Udaipur-Imghh.png",
+    "cost": "18,500"
+  },
+  {
+    "id": 39,
+    "name": "Varanasi",
+    "description": "One of the oldest living cities in the world, famous for its ghats, temples, and spiritual essence.",
+    "image": "http://localhost:5000/uploads/varanasi-imggh.jpg",
+    "cost": "14,500"
+  },
+  {
+    "id": 40,
+    "name": "Thanjavur",
+    "description": "A historic city in Tamil Nadu, renowned for the Brihadeeswarar Temple, classical art, and rich heritage.",
+    "image": "http://localhost:5000/uploads/Thanjavur-Imghh.png",
+    "cost": "15,000"
+  },
+  {
+    "id": 41,
+    "name": "Chandigarh",
+    "description": "Beautiful city and union territory serving as the capital of Punjab and Haryana.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 42,
+    "name": "Delhi",
+    "description": "The capital of India, known for its historical monuments and vibrant culture.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 43,
+    "name": "Haryana",
+    "description": "A state in North India known for its rich agricultural land and heritage.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 44,
+    "name": "Himachal Pradesh",
+    "description": "Famous for its scenic mountains and adventure tourism.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 45,
+    "name": "Jammu and Kashmir",
+    "description": "Known for its stunning landscapes, valleys, and cultural heritage.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 46,
+    "name": "Ladakh",
+    "description": "A cold desert region famous for its monasteries and breathtaking views.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 47,
+    "name": "Punjab",
+    "description": "Known for its vibrant culture, Golden Temple, and delicious cuisine.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 48,
+    "name": "Rajasthan",
+    "description": "Famous for its desert landscapes, palaces, and historical forts.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 49,
+    "name": "Uttar Pradesh",
+    "description": "Home to the Taj Mahal, Varanasi, and a rich historical legacy.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 50,
+    "name": "Uttarakhand",
+    "description": "Known for its spiritual sites and Himalayan beauty.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 51,
+    "name": "Arunachal Pradesh",
+    "description": "A state in Northeast India with rich tribal culture and natural beauty.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 52,
+    "name": "Assam",
+    "description": "Famous for its tea gardens and Kaziranga National Park.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 53,
+    "name": "Manipur",
+    "description": "Known for its scenic landscapes and Loktak Lake.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 54,
+    "name": "Meghalaya",
+    "description": "Famous for its living root bridges and beautiful waterfalls.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 55,
+    "name": "Mizoram",
+    "description": "A hilly state with rich tribal traditions and scenic beauty.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 56,
+    "name": "Nagaland",
+    "description": "Famous for its indigenous Naga tribes and Hornbill Festival.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 57,
+    "name": "Sikkim",
+    "description": "A picturesque state with stunning views of the Himalayas.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 58,
+    "name": "Tripura",
+    "description": "Known for its temples, palaces, and scenic beauty.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 59,
+    "name": "Andaman and Nicobar Islands",
+    "description": "A tropical paradise known for its pristine beaches and marine life.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 60,
+    "name": "Bihar",
+    "description": "Home to ancient Buddhist sites and historical heritage.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 61,
+    "name": "Jharkhand",
+    "description": "A state rich in mineral resources and natural beauty.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 62,
+    "name": "Odisha",
+    "description": "Famous for its temples, beaches, and rich cultural heritage.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 63,
+    "name": "West Bengal",
+    "description": "Known for its diverse culture, Kolkata, and the Sundarbans.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 64,
+    "name": "Chhattisgarh",
+    "description": "A state known for its waterfalls and tribal culture.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 65,
+    "name": "Madhya Pradesh",
+    "description": "Home to wildlife sanctuaries and ancient temples.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 66,
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "description": "Union territory with beautiful coastal views.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 67,
+    "name": "Goa",
+    "description": "Famous for its beaches, nightlife, and Portuguese heritage.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 68,
+    "name": "Gujarat",
+    "description": "Known for the Gir National Park and Rann of Kutch.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 69,
+    "name": "Maharashtra",
+    "description": "Home to Mumbai, Bollywood, and the Ajanta-Ellora caves.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 70,
+    "name": "Andhra Pradesh",
+    "description": "Famous for its temples and coastal beauty.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 71,
+    "name": "Karnataka",
+    "description": "Known for Bengaluru, historical sites, and hill stations.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 72,
+    "name": "Kerala",
+    "description": "Popular for its backwaters, beaches, and Ayurvedic treatments.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 73,
+    "name": "Lakshadweep",
+    "description": "A group of beautiful coral islands in the Arabian Sea.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 74,
+    "name": "Puducherry",
+    "description": "Known for its French colonial heritage and serene beaches.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 75,
+    "name": "Tamil Nadu",
+    "description": "Famous for its Dravidian temples and rich cultural history.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 76,
+    "name": "Telangana",
+    "description": "Home to Hyderabad, Charminar, and historical sites.",
+    "image": "http://localhost:5000/",
+    "cost": null
+  },
+  {
+    "id": 77,
+    "name": "Ahmedabad",
+    "description": "The largest city of Gujarat, known for its Sabarmati Ashram and rich heritage.",
+    "image": "http://localhost:5000/uploads/ahmedabad.jpg",
+    "cost": null
+  },
+  {
+    "id": 78,
+    "name": "Gandhinagar",
+    "description": "The capital city of Gujarat, famous for Akshardham Temple and green spaces.",
+    "image": "http://localhost:5000/uploads/gandhinagar.jpg",
+    "cost": null
+  },
+  {
+    "id": 79,
+    "name": "Surat",
+    "description": "A major diamond and textile hub, known for its beaches and street food.",
+    "image": "http://localhost:5000/uploads/surat.jpg",
+    "cost": null
+  },
+  {
+    "id": 80,
+    "name": "Vadodara",
+    "description": "Known for Laxmi Vilas Palace and its cultural heritage.",
+    "image": "http://localhost:5000/uploads/vadodara.jpg",
+    "cost": null
+  },
+  {
+    "id": 81,
+    "name": "Rajkot",
+    "description": "A vibrant city with historical significance and bustling markets.",
+    "image": "http://localhost:5000/uploads/rajkot.jpg",
+    "cost": null
+  },
+  {
+    "id": 82,
+    "name": "Junagadh",
+    "description": "Home to Gir National Park and ancient historical sites.",
+    "image": "http://localhost:5000/uploads/junagadh.jpg",
+    "cost": null
+  },
+  {
+    "id": 83,
+    "name": "Dwarka",
+    "description": "A sacred Hindu pilgrimage site and home to the Dwarkadhish Temple.",
+    "image": "http://localhost:5000/uploads/dwarka.jpg",
+    "cost": null
+  },
+  {
+    "id": 84,
+    "name": "Somnath",
+    "description": "Famous for the legendary Somnath Temple and beautiful coastal views.",
+    "image": "http://localhost:5000/uploads/somnath.jpg",
+    "cost": null
+  },
+  {
+    "id": 85,
+    "name": "Bhuj",
+    "description": "The gateway to the Rann of Kutch, rich in history and handicrafts.",
+    "image": "http://localhost:5000/uploads/bhuj.jpg",
+    "cost": null
+  },
+  {
+    "id": 86,
+    "name": "Kutch",
+    "description": "Known for the Great Rann of Kutch and vibrant Rann Utsav.",
+    "image": "http://localhost:5000/uploads/kutch.jpg",
+    "cost": null
+  },
+  {
+    "id": 87,
+    "name": "Bhavnagar",
+    "description": "A coastal city known for its historic temples and Palitana Jain temples.",
+    "image": "http://localhost:5000/uploads/bhavnagar.jpg",
+    "cost": null
+  },
+  {
+    "id": 88,
+    "name": "Porbandar",
+    "description": "The birthplace of Mahatma Gandhi, with beautiful beaches.",
+    "image": "http://localhost:5000/uploads/porbandar.jpg",
+    "cost": null
+  },
+  {
+    "id": 89,
+    "name": "Patan",
+    "description": "Home to the UNESCO-listed Rani Ki Vav stepwell.",
+    "image": "http://localhost:5000/uploads/patan.jpg",
+    "cost": null
+  },
+  {
+    "id": 90,
+    "name": "Modhera",
+    "description": "Famous for the Sun Temple, an architectural marvel.",
+    "image": "http://localhost:5000/uploads/modhera.jpg",
+    "cost": null
+  },
+  {
+    "id": 91,
+    "name": "Champaner-Pavagadh",
+    "description": "A UNESCO World Heritage Site with historical forts and temples.",
+    "image": "http://localhost:5000/uploads/champaner-pavagadh.jpg",
+    "cost": null
+  },
+  {
+    "id": 92,
+    "name": "Saputara",
+    "description": "The only hill station in Gujarat, known for scenic beauty.",
+    "image": "http://localhost:5000/uploads/saputara.jpg",
+    "cost": null
+  },
+  {
+    "id": 93,
+    "name": "Diu",
+    "description": "A small island with Portuguese heritage, beaches, and forts.",
+    "image": "http://localhost:5000/uploads/diu.jpg",
+    "cost": null
+  },
+  {
+    "id": 94,
+    "name": "Mandvi",
+    "description": "A coastal town famous for its pristine beaches and Vijay Vilas Palace.",
+    "image": "http://localhost:5000/uploads/mandvi.jpg",
+    "cost": null
+  },
+  {
+    "id": 95,
+    "name": "Anand",
+    "description": "The birthplace of the Amul dairy revolution.",
+    "image": "http://localhost:5000/uploads/anand.jpg",
+    "cost": null
+  },
+  {
+    "id": 96,
+    "name": "Dholavira",
+    "description": "An ancient Harappan Civilization site in the Rann of Kutch.",
+    "image": "http://localhost:5000/uploads/dholavira.jpg",
+    "cost": null
+  },
+  {
+    "id": 97,
+    "name": "Gateway of India",
+    "description": "An iconic arch monument built during the 20th century in Mumbai.",
+    "image": "http://localhost:5000/uploads/gateway_of_india.jpg",
+    "cost": null
+  },
+  {
+    "id": 98,
+    "name": "Marine Drive",
+    "description": "A beautiful promenade along the Arabian Sea, also known as the Queen?s Necklace.",
+    "image": "http://localhost:5000/uploads/marine_drive.jpg",
+    "cost": null
+  },
+  {
+    "id": 99,
+    "name": "Chhatrapati Shivaji Terminus",
+    "description": "A UNESCO World Heritage Site and a historic railway station.",
+    "image": "http://localhost:5000/uploads/cst.jpg",
+    "cost": null
+  },
+  {
+    "id": 100,
+    "name": "Elephanta Caves",
+    "description": "Ancient rock-cut caves with stunning sculptures dedicated to Lord Shiva.",
+    "image": "http://localhost:5000/uploads/elephanta_caves.jpg",
+    "cost": null
+  },
+  {
+    "id": 101,
+    "name": "Juhu Beach",
+    "description": "A popular beach famous for street food and Bollywood celebrity homes.",
+    "image": "http://localhost:5000/uploads/juhu_beach.jpg",
+    "cost": null
+  },
+  {
+    "id": 102,
+    "name": "Colaba Causeway",
+    "description": "A bustling shopping street known for fashion, accessories, and cafes.",
+    "image": "http://localhost:5000/uploads/colaba_causeway.jpg",
+    "cost": null
+  },
+  {
+    "id": 103,
+    "name": "Haji Ali Dargah",
+    "description": "A famous mosque and dargah located on an islet in the Arabian Sea.",
+    "image": "http://localhost:5000/uploads/haji_ali_dargah.jpg",
+    "cost": null
+  },
+  {
+    "id": 104,
+    "name": "Siddhivinayak Temple",
+    "description": "A revered temple dedicated to Lord Ganesha.",
+    "image": "http://localhost:5000/uploads/siddhivinayak_temple.jpg",
+    "cost": null
+  },
+  {
+    "id": 105,
+    "name": "Bandra-Worli Sea Link",
+    "description": "A modern engineering marvel connecting Bandra and Worli.",
+    "image": "http://localhost:5000/uploads/bandra_worli_sea_link.jpg",
+    "cost": null
+  },
+  {
+    "id": 106,
+    "name": "Film City",
+    "description": "The heart of Bollywood, where movies and TV shows are filmed.",
+    "image": "http://localhost:5000/uploads/film_city.jpg",
+    "cost": null
+  },
+  {
+    "id": 107,
+    "name": "Chowpatty Beach",
+    "description": "A lively beach famous for Mumbai?s street food and festivals.",
+    "image": "http://localhost:5000/uploads/chowpatty_beach.jpg",
+    "cost": null
+  },
+  {
+    "id": 108,
+    "name": "Sanjay Gandhi National Park",
+    "description": "A lush green national park home to leopards and ancient Kanheri Caves.",
+    "image": "http://localhost:5000/uploads/sanjay_gandhi_national_park.jpg",
+    "cost": null
+  },
+  {
+    "id": 109,
+    "name": "Kanheri Caves",
+    "description": "Ancient Buddhist caves located inside Sanjay Gandhi National Park.",
+    "image": "http://localhost:5000/uploads/kanheri_caves.jpg",
+    "cost": null
+  },
+  {
+    "id": 110,
+    "name": "Worli Fort",
+    "description": "A historic fort offering scenic views of the Bandra-Worli Sea Link.",
+    "image": "http://localhost:5000/uploads/worli_fort.jpg",
+    "cost": null
+  },
+  {
+    "id": 111,
+    "name": "Global Vipassana Pagoda",
+    "description": "A meditation center and Buddhist pagoda offering tranquility.",
+    "image": "http://localhost:5000/uploads/global_vipassana_pagoda.jpg",
+    "cost": null
+  },
+  {
+    "id": 112,
+    "name": "Mani Bhavan",
+    "description": "A museum dedicated to Mahatma Gandhi?s life and work.",
+    "image": "http://localhost:5000/uploads/mani_bhavan.jpg",
+    "cost": null
+  },
+  {
+    "id": 113,
+    "name": "Crawford Market",
+    "description": "A historic market known for fresh produce, pets, and imported goods.",
+    "image": "http://localhost:5000/uploads/crawford_market.jpg",
+    "cost": null
+  },
+  {
+    "id": 114,
+    "name": "Nehru Planetarium",
+    "description": "A science and space research center with interactive exhibits.",
+    "image": "http://localhost:5000/uploads/nehru_planetarium.jpg",
+    "cost": null
+  },
+  {
+    "id": 115,
+    "name": "Taraporewala Aquarium",
+    "description": "One of India?s oldest aquariums, housing marine and freshwater species.",
+    "image": "http://localhost:5000/uploads/taraporewala_aquarium.jpg",
+    "cost": null
+  }
+]
